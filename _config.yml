@@ -5,13 +5,14 @@ title                    : "Isaac Peña-Villalobos, PhD"
 title_separator          : "|"
 name                     : &name "Isaac Peña-Villalobos"
 description              : &description "Investigador en Ecología Evolutiva, Fisiología Integrativa y Salud Ambiental."
-url                      : "https://ipenavillalobos-ui.github.io" # Reemplaza 'isaacpena' con tu usuario real de GitHub
-baseurl                  : "/ipenavillalobos-ui.github.io"  
-repository               : "ipenavillalobos-ui.github.io" # Reemplaza con tu repositorio
+url                      : "https://ipenavillalobos-ui.github.io"
+baseurl                  : "" 
+repository               : "ipenavillalobos-ui/ipenavillalobos.github.io"
 
 # Site Author
 author:
-  avatar           : "/images/profile.png"# Sube una foto con este nombre a la carpeta /images/
+author:
+  avatar           : "profile.png"
   name             : "Isaac Peña-Villalobos"
   pronouns         : "he/him"  
   bio              : "Doctor en Ciencias c/m en Ecología y Biología Evolutiva. Investigador Responsable FONDECYT 1251362"
