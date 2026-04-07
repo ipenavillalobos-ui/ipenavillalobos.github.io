@@ -8,7 +8,7 @@ name: &name "Isaac Peña-Villalobos"
 description: &description "Investigador en Ecología Evolutiva, Fisiología Integrativa y Salud Ambiental."
 url: "https://ipenavillalobos-ui.github.io"
 baseurl: ""   # importante: vacío si usas GitHub Pages en raíz
-repository: "ipenavillalobos-ui/ipenavillalobos-ui.github.io"
+repository: "ipenavillalobos-ui.github.io"
 
 # =========================
 # Theme (compatible con Academic Pages / Minimal Mistakes)
