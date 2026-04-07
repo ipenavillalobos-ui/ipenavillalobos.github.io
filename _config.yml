@@ -5,7 +5,7 @@ title                    : "Isaac Peña-Villalobos, PhD"
 title_separator          : "|"
 name                     : &name "Isaac Peña-Villalobos"
 description              : &description "Investigador en Ecología Evolutiva, Fisiología Integrativa y Salud Ambiental."
-url                      : "https://ipenavillalobos.github.io" # Reemplaza 'isaacpena' con tu usuario real de GitHub
+url                      : "https://ipenavillalobos-ui.github.io" # Reemplaza 'isaacpena' con tu usuario real de GitHub
 baseurl                  : "" 
 repository               : "ipenavillalobos-ui.github.io" # Reemplaza con tu repositorio
 
