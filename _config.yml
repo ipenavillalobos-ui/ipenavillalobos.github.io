@@ -48,7 +48,7 @@ facebook:
   
 # Analytics
 analytics:
-  provider               : "false" # Cambia a "google" si luego quieres ver quién visita tu web
+  provider               : "google" # Cambia a "google" si luego quieres ver quién visita tu web
 
 # Reading Files
 include:
