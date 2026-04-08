@@ -18,6 +18,9 @@ In addition to my research, I work as a professional at the University of Chile 
   <img src="/images/Pigeons.png" width="400" alt="Columba livia in Santiago, Chile ">
 </p>
 
+![alt text](/images/Pigeons.png") 
+
+
 
 <br>
 <div style="text-align: center;">
