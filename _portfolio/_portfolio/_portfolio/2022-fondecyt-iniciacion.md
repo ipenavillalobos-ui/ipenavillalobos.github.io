@@ -1,9 +1,9 @@
 ---
 title: "FONDECYT Iniciación 11221062 (2022-2024)"
-excerpt: "Investigador Responsable: Palomas ferales y calor urbano, polimorfismo de color y sistema de melanocortinas."
+excerpt: "Principal Investigator: Feral pigeons and urban heat, color polymorphism and the melanocortin system"
 collection: portfolio
 ---
 
-**Rol:** Investigador Responsable  
+**Role:** Principal Investigator
 
-Investigación centrada en la evolución del polimorfismo de color en *Columba livia*. Analizamos cómo las variantes melánicas (oscuras) podrían tener ventajas adaptativas frente al estrés oxidativo provocado por la contaminación y el calor en entornos metropolitanos.
+Research focused on the evolution of color polymorphism in *Columba livia*. We analyze how melanic (dark) variants might have adaptive advantages against oxidative stress caused by pollution and heat in metropolitan environments.
