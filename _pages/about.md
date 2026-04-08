@@ -7,7 +7,7 @@ author_profile: true
 I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. My research focuses on integrative physiology and evolutionary ecology, studying how organisms adapt to human-transformed environments.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/lead.png" width="400" alt="Lead in urban areas">
+  <img src="/ipenavillalobos.github.io/assets/images/lead.png" width="400" alt="Lead">
 </p>
 
 I currently lead FONDECYT-funded projects on the impact of urban heat islands and pollutants on wildlife, integrating tools from physiology, toxicology, and ecology.
@@ -15,12 +15,12 @@ I currently lead FONDECYT-funded projects on the impact of urban heat islands an
 In addition to my research, I work as a professional at the University of Chile (DEMRE) and teach undergraduate courses in Physiology and Comparative Anatomy.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/pigeons.png" width="400" alt="Columba livia in Santiago, Chile">
+  <img src="/ipenavillalobos.github.io/assets/images/pigeons.png" width="400" alt="Pigeons">
 </p>
 
 <br>
+
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mQ9LIDmAWRM?si=fqaLtxpY9-EZVcXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width: 100%; border-radius: 12px; border: 1px solid #ddd;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mQ9LIDmAWRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 100%; border-radius: 12px; border: 1px solid #ddd;"></iframe>
   <p><i>Some results of FONDECYT 11221062 in the 24 Horas news program, on February 14, 2025.</i></p>
 </div>
-<br>
