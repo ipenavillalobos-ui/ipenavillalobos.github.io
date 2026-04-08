@@ -12,6 +12,10 @@ I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. M
 
 src="{{ site.baseurl }}/images/Lead.png"
 
+<p align="center">
+  <img src="images/Lead.png" width="400" alt="Lead in urban areas">
+</p>
+
 I currently lead FONDECYT-funded projects on the impact of urban heat islands and pollutants on wildlife, integrating tools from physiology, toxicology, and ecology.
 
 In addition to my research, I work as a professional at the University of Chile (DEMRE) and teach undergraduate courses in Physiology and Comparative Anatomy.
