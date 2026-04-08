@@ -7,7 +7,7 @@ author_profile: true
 I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. My research focuses on integrative physiology and evolutionary ecology, studying how organisms adapt to human-transformed environments.
 
 <p align="center">
-  <img src="/ipenavillalobos.github.io/assets/images/lead.png" width="400" alt="Lead">
+  <img src="/assets/images/lead.png" width="400" alt="Lead">
 </p>
 
 I currently lead FONDECYT-funded projects on the impact of urban heat islands and pollutants on wildlife, integrating tools from physiology, toxicology, and ecology.
@@ -15,7 +15,7 @@ I currently lead FONDECYT-funded projects on the impact of urban heat islands an
 In addition to my research, I work as a professional at the University of Chile (DEMRE) and teach undergraduate courses in Physiology and Comparative Anatomy.
 
 <p align="center">
-  <img src="/ipenavillalobos.github.io/assets/images/pigeons.png" width="400" alt="Pigeons">
+  <img src="/assets/images/pigeons.png" width="400" alt="Pigeons">
 </p>
 
 <br>
