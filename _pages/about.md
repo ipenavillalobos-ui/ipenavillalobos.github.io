@@ -4,7 +4,7 @@ title: "Adaptation in the concrete jungle: How cities reshape animal physiology"
 author_profile: true
 
 ---
-I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. My research focuses on integrative physiology and evolutionary ecology, studying how organisms adapt to human-transformed environments under the One Health approach.
+I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. My research focuses on integrative physiology and evolutionary ecology, studying how organisms adapt to human-transformed environments.
 
 <p align="center">
   <img src="/images/Lead.png" width="400" alt="Precipitation acts as a flushing mechanism for lead in urban areas https://doi.org/10.1016/j.jhazmat.2025.139524">
