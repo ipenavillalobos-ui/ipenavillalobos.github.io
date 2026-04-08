@@ -19,4 +19,9 @@ In addition to my research, I work as a professional at the University of Chile 
 </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mQ9LIDmAWRM?si=fqaLtxpY9-EZVcXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mQ9LIDmAWRM?si=fqaLtxpY9-EZVcXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width: 100%; border-radius: 12px; border: 1px solid #ddd;"></iframe>
+  <p><i>Breve descripción del video (opcional)</i></p>
+</div>
+<br>
