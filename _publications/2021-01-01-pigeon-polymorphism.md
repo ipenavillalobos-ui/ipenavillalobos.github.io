@@ -1,6 +1,6 @@
 ---
 title: >
-The Interplay Between Urban Temperature and Feather Coloration: Factors Shaping Immunological Traits in Pigeons (Columba livia)
+The Interplay Between Urban Temperature and Feather Coloration. Factors Shaping Immunological Traits in Pigeons (Columba livia)
 <
 collection: publications
 category: manuscripts
