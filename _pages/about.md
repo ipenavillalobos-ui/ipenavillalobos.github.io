@@ -15,7 +15,7 @@ I currently lead FONDECYT-funded projects on the impact of urban heat islands an
 In addition to my research, I work as a professional at the University of Chile (DEMRE) and teach undergraduate courses in Physiology and Comparative Anatomy.
 
 <p align="center">
-  <img src="/assets/images/pigeons.png" width="400" alt="Pigeons">
+  <img src="/assets/images/Pigeons.png" width="400" alt="Pigeons">
 </p>
 
 <br>
