@@ -6,11 +6,6 @@ author_profile: true
 
 I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. My research focuses on integrative physiology and evolutionary ecology, studying how organisms adapt to human-transformed environments.
 
-<p align="center">
-  <img src="/assets/images/Lead.png" width="400" alt="Lead">
-</p>
-
-![Alt Text](/images/Lead.png)
 
 <img src="/images/Lead.png" width="300" alt="Description of image">
 
