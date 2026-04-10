@@ -7,7 +7,7 @@ author_profile: true
 I hold a PhD in Ecology and Evolutionary Biology from the University of Chile. My research focuses on integrative physiology and evolutionary ecology, studying how organisms adapt to human-transformed environments.
 
 
-<img src="/images/Lead.png" width="300" alt="Description of image">
+<img src="/images/profile.png" width="300" alt="Description of image">
 
 
 I currently lead FONDECYT-funded projects on the impact of urban heat islands and pollutants on wildlife, integrating tools from physiology, toxicology, and ecology.
